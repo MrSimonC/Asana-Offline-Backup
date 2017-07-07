@@ -1,0 +1,6 @@
+[SETTINGS]
+url = https://instagantt.com/asana/connect
+password = YOURPASSWORDHERE
+projects = project-57067c807eae7bc01a000017
+email = my@email.com
+save_path = C:\mysavepath
