@@ -1,7 +1,7 @@
 # Asana Offline Backup
 Logs into Asana, finds a specifed project, creates an offline backup of that project.
 
-````python
+````bash
 Usage:
     asana
     asana -t
